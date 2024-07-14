@@ -73,6 +73,9 @@ Exemplo:
 
 * Acesse http://localhost:8080 para utilizar a interface da aplicação.
 * Siga as instruções no console ou na interface para realizar buscas de livros, listar autores e realizar outras operações disponíveis.
+
+  
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou relatar issues no repositório GitHub.
+![badge literalura](https://github.com/user-attachments/assets/fbc2b4a1-810f-4167-870d-f01956771189)
 
